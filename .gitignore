@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# pytorch model
+*.pth
+
+# dataset
+*.tar.gz
